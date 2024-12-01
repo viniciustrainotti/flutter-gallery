@@ -837,10 +837,10 @@ packages:
     dependency: "direct dev"
     description:
       name: web_benchmarks
-      sha256: b4a71ff0d35977d88b06fcccc87e64503ac941ffa193ae12469aaa8f10b2e64b
+      sha256: a7dd85be82da0d52f425b830fb57838937a1bc4d8f49b3bd336fbe08fadb690b
       url: "https://pub.dev"
     source: hosted
-    version: "0.1.0+10"
+    version: "4.0.0"
   web_socket:
     dependency: transitive
     description:
